@@ -1,4 +1,4 @@
- # **Welcome to My Home Page** ☺
+ # **Welcome to my profile page** ☺
 - 👋 Hi, I’m @LeoKnightDev
 - 👀 I’m interested in learn new Frameworks and improve my study methods
 - 🌱 I’m currently learning **VueJS**
