@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on work or game project...
 - 📫 How to reach me ...
 - 🌱 I love make projects with this langs/Libs/Frameworks [HTML5/CSS3/Javascript/JQuery/Vue/Nodejs/Express]
-- And, This is a part of my personal project:
+- And this is a part of my personal project:
 
 *Image Reference:*
 
