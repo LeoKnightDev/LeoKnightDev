@@ -1,10 +1,10 @@
  # **Welcome to My Home Page** ☺
 - 👋 Hi, I’m @LeoKnightDev
 - 👀 I’m interested in learn new Frameworks and improve my study methods
-- 🌱 I’m currently learning VueJS
+- 🌱 I’m currently learning **VueJS**
 - 💞️ I’m looking to collaborate on work or game project...
 - 📫 How to reach me ...
-- 🌱 I love make projects with this langs/Libs/Frameworks [HTML5/CSS3/Javascript/JQuery/Vue/Nodejs/Express]
+- 🌱 I love make projects with this langs/Libs/Frameworks [**HTML5/CSS3/Javascript/JQuery/Vue/Nodejs/Express**]
 - And this is a part of my personal project:
 
 *Image Reference:*
