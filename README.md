@@ -1,4 +1,5 @@
  # **Welcome to my profile page** ☺
+• About me ☻:
 - 👋 Hi, I’m @LeoKnightDev
 - 👀 I’m interested in learn new Frameworks and improve my study methods
 - 🌱 I’m currently learning **VueJS**
